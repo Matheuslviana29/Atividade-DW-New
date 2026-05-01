@@ -57,7 +57,7 @@ public class CarDao {
         jdbc.update(sql, Long.valueOf(id));
 
     }
-
+    //
     // UPDATE car SET name = ?, color = ? WHERE id = ?
     public void update(String id, CarDTO carDTO) {
 

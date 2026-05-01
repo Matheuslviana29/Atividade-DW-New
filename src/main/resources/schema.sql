@@ -7,3 +7,4 @@ CREATE TABLE IF NOT EXISTS car (
   year_fabric VARCHAR(255),
   year_model VARCHAR(255)
 );
+
